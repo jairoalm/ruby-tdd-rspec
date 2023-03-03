@@ -39,12 +39,12 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## ✒️ Autores
 
-* **Jairo Almeida** - *Implementaçã e Documentação* - [@jairoinfo](https://github.com/jairoalm)
+* **Jairo Almeida** - *Implementação e Documentação* - [@jairoalm](https://github.com/jairoalm)
 
 ## 🎁 Expressões de gratidão
 
 * Projeto que valida resultados dos calculos do IMC 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
+* Aos colegas que estiverem vendo este repositório convido para uma call e celebrar o conhecimento 🍺;
 
 ---
 ⌨️ com ❤️ por [Jairo Almeida](https://gist.github.com/jairoalm) 😊
