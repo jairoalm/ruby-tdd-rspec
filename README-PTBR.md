@@ -31,10 +31,10 @@ Exemplos:
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [rubygems](http://rubygems.org) - O framework web usado
-* [rspec](https://maven.apache.org/) - Gerente de Dependência
+* [rubygems](http://rubygems.org) - Gerenciador de libs
+* [rspec](https://rubygems.org/search?query=rspec) - Lib para teste unitário com Ruby
 * [vscode](https://code.visualstudio.com/download) -  Editor de texto
-* [gi](https://git-scm.com/downloads) - Sistema de controle de versão
+* [git](https://git-scm.com/downloads) - Sistema de controle de versão
 * [github](https://github.com) - Armazenar projeto no repositório
 
 ## ✒️ Autores
@@ -47,4 +47,4 @@ Mencione as ferramentas que você usou para criar seu projeto
 * Aos colegas que estiverem vendo este repositório convido para uma call e celebrar o conhecimento 🍺;
 
 ---
-⌨️ com ❤️ por [Jairo Almeida](https://gist.github.com/jairoalm) 😊
+⌨️ com ❤️ por [Jairo Almeida](https://github.com/jairoalm) 😊
